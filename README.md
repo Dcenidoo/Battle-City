@@ -84,7 +84,7 @@ Mercado, Ervin = tile_drawing, player_lives_implementation, power_up_implementat
 
 ## Video Demo
 
-Link = 
+Link = https://drive.google.com/file/d/1QceLtQVrFPEATZcXikxM2rchfMsk31TX/view?usp=sharing
 
 ## Files
 
